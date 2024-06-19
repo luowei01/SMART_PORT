@@ -1,0 +1,1 @@
+g++ sdk/C++/main.cpp -o Demo/main.exe -O3
